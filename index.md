@@ -2,8 +2,7 @@
 
 ### Hello test key
 
-my public GnuPGP key:
-
+my public GnuPGP key: #TODO
 Profile: Doan Nam Long Vu
 
 my email: doannamlong.vu@stud.tu-darmstadt.de
