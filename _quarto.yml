@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  #title: "Doan Nam Long Vu"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: publication.qmd
+        text: Publications
+
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: cyborg
+    css: styles.css
+    toc: true
+
+
+

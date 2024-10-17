@@ -1,0 +1,21 @@
+---
+title: "Publications"
+---
+
+## Conference/Workshop Papers
+**Granularity is crucial when applying differential privacy to text: An investigation for neural machine translation.**\
+***Doan Nam Long Vu***, Timour Igamberdiev, and Ivan Habernal.\
+In Findings of the Association for Computational Linguistics: EMNLP 2024
+
+**A Course Shared Task on Evaluating LLM Output for Clinical Questions.**\
+Yufang Hou, Thy Tran, ***Doan Nam Long Vu***, Yiwen Cao, Kai Li, Lukas Rohde, and Iryna Gurevych.\
+In Proceedings of the Sixth Workshop on Teaching NLP, 2024
+
+
+**DP-NMT: Scalable Differentially Private Machine Translation.**\
+Timour Igamberdiev, ***Doan Nam Long Vu***, Felix Kuennecke, Zhuo Yu, Jannik Holmer, and Ivan Habernal.\
+In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations, 2024
+
+**Layer or Representation Space: What Makes BERT-based Evaluation Metrics Robust?**\
+***Doan Nam Long Vu***, Nafise Sadat Moosavi, and Steffen Eger.\
+In Proceedings of the 29th International Conference on Computational Linguistics, 2022

@@ -1,0 +1,29 @@
+---
+title: "About"
+---
+
+Doan Nam Long Vu (Vũ Đoàn Nam Long) is a dotoral researcher at Technical University of Darmstadt, working on Artificial intelligence and Natural Language Processing for Mental Health. He finished his Master and Bachelor at Technical University of Darmstadt. Prior to his dotoral research, he did B.Sc. research with [Prof. Steffen Eger](https://nl2g.github.io/team#Steffen_Eger) and [Dr. Nafise Sadat Moosavi](https://ns-moosavi.github.io/), M.Sc. research with [Prof. Yufang Hou](https://yufanghou.github.io/) and [Prof. Ivan Habernal](https://www.trusthlt.org/) at TU Darmstadt.
+
+## Research Interest
+
+Natural Language Processing: *Affective Computing, Machine Translation Information Retrieval, Evaluation Metrics for Text Generation*
+
+Privacy Preserving Techniques: *Differential Privacy, Cryptographic Protocol*
+
+Applicaton: *Mental Health*
+
+## Teaching
+
+**Teaching Assistant**\
+*[Foundation of Language Technology](https://www.informatik.tu-darmstadt.de/ukp/teaching_ukp/ukp_teaching_courses/ukp_courses_ws_20_3/index.en.jsp)*\
+Winter Term 2022 and 2023\
+at Technical University of Darmstadt
+
+*[Deep Learning for Natural Language Processing](https://github.com/dl4nlp-tuda/deep-learning-for-nlp-lectures)*\
+Summer Term 2023\
+at Technical University of Darmstadt
+
+
+## Hobbies
+
+In my free time, I enjoy doing street workout and swimming in the summer. And in winter, I'm having a ton of fun practicing bass guitar! 

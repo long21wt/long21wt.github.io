@@ -1,0 +1,67 @@
+---
+title: "Doan Nam Long Vu"
+about:
+    id: edu-exp
+    template: solana
+    links:
+        - icon: envelope-fill
+          href: mailto:doannamlong.vu@stud.tu-darmstadt.de
+        - icon: twitter-x
+          href: https://x.com/doannamlongvu
+        - icon: github
+          href: https://github.com/long21wt
+        - icon: linkedin
+          href: https://www.linkedin.com/in/doan-nam-long-vu-6abb7a17b/
+        - text: "{{< iconify academicons google-scholar >}}"
+          href: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=wSkaI9MAAAAJ"
+---
+
+
+::: {#edu-exp}
+
+I am a dotoral researcher at Technical University of Darmstadt, working on Artificial intelligence and Natural Language Processing for Mental Health.
+
+:::
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-7 style="text-align: left;"}
+## Education
+<!---
+- **_Ph.D._ in Computer Science**, **2025-present**  
+  *Technical University of Darmstadt, Germany*
+-->
+- **_M.Sc._ in Informatik (Computer Science)**, **2021-2024**  
+  *Technical University of Darmstadt, Germany*
+
+- **_B.Sc._ in Informatik (Computer Science)**, **2018-2022**  
+  *Technical University of Darmstadt, Germany*
+:::
+
+::: {.g-col-12 .g-col-md-5 style="text-align: left;"}
+## Research
+- Natural Language Processing
+- Affective Computing
+
+:::
+
+::::
+
+
+## News
+
+- 09/2024: The paper "[Granularity is crucial when applying differential privacy to text: An investigation for neural machine translation](https://arxiv.org/abs/2407.18789)" from my Master thesis has been accepted at EMNLP 2024 Findings.
+
+- 09/2024 Starting from January 2025, I will be joining AI and NLP for Mental Health group lead by [Dr. Shaoxiong Ji](https://shaoxiongji.github.io/) affiliated with [Ubiquitous Knowledge Processing (UKP) Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) at [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) as a Full-Time Research Assistant and Ph.D student.
+
+- 06/2024 A paper accepted at ACL 2024 workshop on teaching NLP describing a course shared task that we organized at the Foundations of Language Technology (FoLT) course in 2023/2024 at the Technical University of Darmstadt. The shared task focuses on evaluating the output of LLMs in generating harmful answers to health-related clinical questions.
+
+- 05/2024 I got my Master degree and officially graduated!
+
+- 01/2024: Our paper "[DP-NMT: Scalable Differentially-Private Machine Translation](https://aclanthology.org/2024.eacl-demo.11/)" has been accepted at EACL 2024 System Demonstration.
+
+- 10/2022 I got COLING 2022 Outstanding paper award!
+
+- 08/2022: The paper "[Layer or Representation Space: What Makes BERT-based Evaluation Metrics Robust?](https://aclanthology.org/2022.coling-1.300/)" from my Bachelor thesis has been accepted at COLING 2022.
+
+- 06/2022 I got my Bachelor degree and officially graduated!
