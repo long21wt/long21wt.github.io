@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Doan Nam Long Vu (Vũ Đoàn Nam Long) is a dotoral researcher at Technical University of Darmstadt, working on Artificial intelligence and Natural Language Processing for Mental Health. He finished his Master and Bachelor at Technical University of Darmstadt. Prior to his dotoral research, he did B.Sc. research with Prof. Steffen Eger and Dr. Nafise Sadat Moosavi, M.Sc. research with Prof. Yufang Hou and Prof. Ivan Habernal at TU Darmstadt."
+    "text": "Doan Nam Long Vu (Vũ Đoàn Nam Long) finished his Master and Bachelor degree at Technical University of Darmstadt. He did B.Sc. research with Prof. Steffen Eger and Dr. Nafise Sadat Moosavi, M.Sc. research with Prof. Yufang Hou and Prof. Ivan Habernal at TU Darmstadt."
   },
   {
     "objectID": "about.html#research-interest",
     "href": "about.html#research-interest",
     "title": "About",
     "section": "Research Interest",
-    "text": "Research Interest\nNatural Language Processing: Affective Computing, Machine Translation Information Retrieval, Evaluation Metrics for Text Generation\nPrivacy Preserving Techniques: Differential Privacy, Cryptographic Protocol\nApplicaton: Mental Health"
+    "text": "Research Interest\nNatural Language Processing: Affective Computing, Machine Translation, Information Retrieval, Evaluation Metrics for Text Generation\nPrivacy Preserving Techniques: Differential Privacy, Cryptographic Protocol\nApplicaton: Mental Health"
   },
   {
     "objectID": "about.html#teaching",
@@ -38,15 +38,15 @@
     "objectID": "publication.html#conferenceworkshop-papers",
     "href": "publication.html#conferenceworkshop-papers",
     "title": "Publications",
-    "section": "",
-    "text": "Granularity is crucial when applying differential privacy to text: An investigation for neural machine translation.\nDoan Nam Long Vu, Timour Igamberdiev, and Ivan Habernal.\nIn Findings of the Association for Computational Linguistics: EMNLP 2024\nA Course Shared Task on Evaluating LLM Output for Clinical Questions.\nYufang Hou, Thy Tran, Doan Nam Long Vu, Yiwen Cao, Kai Li, Lukas Rohde, and Iryna Gurevych.\nIn Proceedings of the Sixth Workshop on Teaching NLP, 2024\nDP-NMT: Scalable Differentially Private Machine Translation.\nTimour Igamberdiev, Doan Nam Long Vu, Felix Kuennecke, Zhuo Yu, Jannik Holmer, and Ivan Habernal.\nIn Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations, 2024\nLayer or Representation Space: What Makes BERT-based Evaluation Metrics Robust?\nDoan Nam Long Vu, Nafise Sadat Moosavi, and Steffen Eger.\nIn Proceedings of the 29th International Conference on Computational Linguistics, 2022"
+    "section": "Conference/Workshop Papers",
+    "text": "Conference/Workshop Papers\nGranularity is crucial when applying differential privacy to text: An investigation for neural machine translation.\nDoan Nam Long Vu, Timour Igamberdiev, and Ivan Habernal.\nIn Findings of the Association for Computational Linguistics: EMNLP 2024\nA Course Shared Task on Evaluating LLM Output for Clinical Questions.\nYufang Hou, Thy Tran, Doan Nam Long Vu, Yiwen Cao, Kai Li, Lukas Rohde, and Iryna Gurevych.\nIn Proceedings of the Sixth Workshop on Teaching NLP, 2024\nDP-NMT: Scalable Differentially Private Machine Translation.\nTimour Igamberdiev, Doan Nam Long Vu, Felix Kuennecke, Zhuo Yu, Jannik Holmer, and Ivan Habernal.\nIn Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations, 2024\nLayer or Representation Space: What Makes BERT-based Evaluation Metrics Robust?\nDoan Nam Long Vu, Nafise Sadat Moosavi, and Steffen Eger.\nIn Proceedings of the 29th International Conference on Computational Linguistics, 2022"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Doan Nam Long Vu",
     "section": "",
-    "text": "I am a dotoral researcher at Technical University of Darmstadt, working on Artificial intelligence and Natural Language Processing for Mental Health."
+    "text": "I will be a doctoral researcher at the Technical University of Darmstadt (from January 2025), working on Artificial Intelligence and Natural Language Processing for Mental Health."
   },
   {
     "objectID": "index.html#education",
@@ -68,5 +68,12 @@
     "title": "Doan Nam Long Vu",
     "section": "News",
     "text": "News\n\n09/2024: The paper “Granularity is crucial when applying differential privacy to text: An investigation for neural machine translation” from my Master thesis has been accepted at EMNLP 2024 Findings.\n09/2024 Starting from January 2025, I will be joining AI and NLP for Mental Health group lead by Dr. Shaoxiong Ji affiliated with Ubiquitous Knowledge Processing (UKP) Lab at Technical University of Darmstadt as a Full-Time Research Assistant and Ph.D student.\n06/2024 A paper accepted at ACL 2024 workshop on teaching NLP describing a course shared task that we organized at the Foundations of Language Technology (FoLT) course in 2023/2024 at the Technical University of Darmstadt. The shared task focuses on evaluating the output of LLMs in generating harmful answers to health-related clinical questions.\n05/2024 I got my Master degree and officially graduated!\n01/2024: Our paper “DP-NMT: Scalable Differentially-Private Machine Translation” has been accepted at EACL 2024 System Demonstration.\n10/2022 I got COLING 2022 Outstanding paper award!\n08/2022: The paper “Layer or Representation Space: What Makes BERT-based Evaluation Metrics Robust?” from my Bachelor thesis has been accepted at COLING 2022.\n06/2022 I got my Bachelor degree and officially graduated!"
+  },
+  {
+    "objectID": "about.html#hobbies-and-other-interests",
+    "href": "about.html#hobbies-and-other-interests",
+    "title": "About",
+    "section": "Hobbies and other interests",
+    "text": "Hobbies and other interests\nIn my free time, I enjoy doing street workout and swimming in the summer. And in winter, I have a ton of fun practicing bass guitar! I am also interested in Music Source Separation, mainly to extract the bass guitar stem for better music transcription. Besides that, I also like to experience Virtual/Augmented Reality games/softwares."
   }
 ]

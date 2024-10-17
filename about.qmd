@@ -2,11 +2,11 @@
 title: "About"
 ---
 
-Doan Nam Long Vu (Vũ Đoàn Nam Long) is a dotoral researcher at Technical University of Darmstadt, working on Artificial intelligence and Natural Language Processing for Mental Health. He finished his Master and Bachelor at Technical University of Darmstadt. Prior to his dotoral research, he did B.Sc. research with [Prof. Steffen Eger](https://nl2g.github.io/team#Steffen_Eger) and [Dr. Nafise Sadat Moosavi](https://ns-moosavi.github.io/), M.Sc. research with [Prof. Yufang Hou](https://yufanghou.github.io/) and [Prof. Ivan Habernal](https://www.trusthlt.org/) at TU Darmstadt.
+Doan Nam Long Vu (Vũ Đoàn Nam Long) finished his Master and Bachelor degree at Technical University of Darmstadt. He did B.Sc. research with [Prof. Steffen Eger](https://nl2g.github.io/team#Steffen_Eger) and [Dr. Nafise Sadat Moosavi](https://ns-moosavi.github.io/), M.Sc. research with [Prof. Yufang Hou](https://yufanghou.github.io/) and [Prof. Ivan Habernal](https://www.trusthlt.org/) at TU Darmstadt.
 
 ## Research Interest
 
-Natural Language Processing: *Affective Computing, Machine Translation Information Retrieval, Evaluation Metrics for Text Generation*
+Natural Language Processing: *Affective Computing, Machine Translation, Information Retrieval, Evaluation Metrics for Text Generation*
 
 Privacy Preserving Techniques: *Differential Privacy, Cryptographic Protocol*
 
@@ -24,6 +24,8 @@ Summer Term 2023\
 at Technical University of Darmstadt
 
 
-## Hobbies
+## Hobbies and other interests
 
-In my free time, I enjoy doing street workout and swimming in the summer. And in winter, I'm having a ton of fun practicing bass guitar! 
+In my free time, I enjoy doing street workout and swimming in the summer. And in winter, I have a ton of fun practicing bass guitar! 
+I am also interested in Music Source Separation, mainly to extract the bass guitar stem for better music transcription.
+Besides that, I also like to experience Virtual/Augmented Reality games/softwares.

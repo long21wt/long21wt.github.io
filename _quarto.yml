@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   #title: "Doan Nam Long Vu"
+  search: false
   navbar:
     left:
       - href: index.qmd

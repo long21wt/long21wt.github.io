@@ -1,8 +1,9 @@
 ---
 title: "Doan Nam Long Vu"
+toc: false
 about:
     id: edu-exp
-    template: solana
+    template: jolla
     links:
         - icon: envelope-fill
           href: mailto:doannamlong.vu@stud.tu-darmstadt.de
@@ -19,7 +20,7 @@ about:
 
 ::: {#edu-exp}
 
-I am a dotoral researcher at Technical University of Darmstadt, working on Artificial intelligence and Natural Language Processing for Mental Health.
+I will be a doctoral researcher at the Technical University of Darmstadt (from January 2025), working on Artificial Intelligence and Natural Language Processing for Mental Health.
 
 :::
 
