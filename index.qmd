@@ -20,7 +20,7 @@ about:
 
 ::: {#edu-exp}
 
-I will be a doctoral researcher at the Technical University of Darmstadt (from January 2025), working on Artificial Intelligence and Natural Language Processing for Mental Health.
+I am a doctoral researcher at [MAIN](https://shaoxiongji.github.io/team/) and [UKP lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) at the [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), working on Artificial Intelligence and Natural Language Processing for Mental Health.
 
 :::
 
@@ -28,10 +28,10 @@ I will be a doctoral researcher at the Technical University of Darmstadt (from J
 
 ::: {.g-col-12 .g-col-md-7 style="text-align: left;"}
 ## Education
-<!---
+
 - **_Ph.D._ in Computer Science**, **2025-present**  
   *Technical University of Darmstadt, Germany*
--->
+
 - **_M.Sc._ in Informatik (Computer Science)**, **2021-2024**  
   *Technical University of Darmstadt, Germany*
 
@@ -41,8 +41,10 @@ I will be a doctoral researcher at the Technical University of Darmstadt (from J
 
 ::: {.g-col-12 .g-col-md-5 style="text-align: left;"}
 ## Research
+
+- AI for Mental Health
 - Natural Language Processing
-- Affective Computing
+- Multimodal Machine Learning
 
 :::
 

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -30,12 +30,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d166b450ba5a8e9f7a0ab969bf6592c1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-7f2ec24aee834e62cd2de1bda3d4642b.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "language": {
@@ -107,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
   </div>
 </header><div id="edu-exp">
-<p>I will be a doctoral researcher at the Technical University of Darmstadt (from January 2025), working on Artificial Intelligence and Natural Language Processing for Mental Health.</p>
+<p>I am a doctoral researcher at <a href="https://shaoxiongji.github.io/team/">MAIN</a> and <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp">UKP lab</a> at the <a href="https://www.tu-darmstadt.de/index.en.jsp">Technical University of Darmstadt</a>, working on Artificial Intelligence and Natural Language Processing for Mental Health.</p>
 </div> 
   <hr class="about-sep">
    <div class="about-links">
@@ -136,11 +136,9 @@ ul.task-list li input[type="checkbox"] {
 <div class="grid">
 <section id="education" class="level2 g-col-12 g-col-md-7" style="text-align: left;">
 <h2 data-anchor-id="education">Education</h2>
-<!---
-- **_Ph.D._ in Computer Science**, **2025-present**  
-  *Technical University of Darmstadt, Germany*
--->
 <ul>
+<li><p><strong><em>Ph.D.</em> in Computer Science</strong>, <strong>2025-present</strong><br>
+<em>Technical University of Darmstadt, Germany</em></p></li>
 <li><p><strong><em>M.Sc.</em> in Informatik (Computer Science)</strong>, <strong>2021-2024</strong><br>
 <em>Technical University of Darmstadt, Germany</em></p></li>
 <li><p><strong><em>B.Sc.</em> in Informatik (Computer Science)</strong>, <strong>2018-2022</strong><br>
@@ -150,8 +148,9 @@ ul.task-list li input[type="checkbox"] {
 <section id="research" class="level2 g-col-12 g-col-md-5" style="text-align: left;">
 <h2 data-anchor-id="research">Research</h2>
 <ul>
+<li>AI for Mental Health</li>
 <li>Natural Language Processing</li>
-<li>Affective Computing</li>
+<li>Multimodal Machine Learning</li>
 </ul>
 </section>
 </div>
@@ -392,8 +391,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -504,7 +501,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
