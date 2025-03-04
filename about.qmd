@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Doan Nam Long Vu (Vũ Đoàn Nam Long) finished his Master and Bachelor degree at Technical University of Darmstadt. He did B.Sc. research with [Prof. Steffen Eger](https://nl2g.github.io/team#Steffen_Eger) and [Dr. Nafise Sadat Moosavi](https://ns-moosavi.github.io/), M.Sc. research with [Prof. Yufang Hou](https://yufanghou.github.io/) and [Prof. Ivan Habernal](https://www.trusthlt.org/) at TU Darmstadt.
+I did my B.Sc. research with [Prof. Steffen Eger](https://nl2g.github.io/team#Steffen_Eger) and [Dr. Nafise Sadat Moosavi](https://ns-moosavi.github.io/), M.Sc. research with [Prof. Yufang Hou](https://yufanghou.github.io/) and [Prof. Ivan Habernal](https://www.trusthlt.org/) at TU Darmstadt.
 
 ## Research Interest
 

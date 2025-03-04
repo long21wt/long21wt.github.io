@@ -6,7 +6,7 @@ about:
     template: jolla
     links:
         - icon: envelope-fill
-          href: mailto:doannamlong.vu@stud.tu-darmstadt.de
+          href: mailto:doan.vu@tu-darmstadt.de
         - icon: twitter-x
           href: https://x.com/doannamlongvu
         - icon: github
