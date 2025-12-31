@@ -20,7 +20,7 @@ about:
 
 ::: {#edu-exp}
 
-I am a doctoral researcher at [MAIN](https://shaoxiongji.github.io/team/) and [UKP lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) at the [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), working on Artificial Intelligence and Natural Language Processing for Mental Health.
+I am a doctoral researcher at [NLP for Expert Domains (ExpNLP) group](https://www.informatik.tu-darmstadt.de/fb20/ueber_uns_details_310144.en.jsp)  affiliated with [UKP lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) at the [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), working on Artificial Intelligence and Natural Language Processing for Mental Health.
 
 :::
 
@@ -53,18 +53,20 @@ I am a doctoral researcher at [MAIN](https://shaoxiongji.github.io/team/) and [U
 
 ## News
 
+- 07/2025: Starting from October 2025, I will be moving to NLP for Expert Domains (ExpNLP) group lead by [Simone Balloccu Ph.D.](https://uccollab.github.io/) and continue working on AI and NLP for Mental Health.
+
 - 09/2024: The paper "[Granularity is crucial when applying differential privacy to text: An investigation for neural machine translation](https://arxiv.org/abs/2407.18789)" from my Master thesis has been accepted at EMNLP 2024 Findings.
 
-- 09/2024 Starting from January 2025, I will be joining AI and NLP for Mental Health group lead by [Dr. Shaoxiong Ji](https://shaoxiongji.github.io/) affiliated with [Ubiquitous Knowledge Processing (UKP) Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) at [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) as a Full-Time Research Assistant and Ph.D student.
+- 09/2024: Starting from January 2025, I will be joining AI and NLP for Mental Health group lead by [Dr. Shaoxiong Ji](https://shaoxiongji.github.io/) affiliated with [Ubiquitous Knowledge Processing (UKP) Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) at [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) as a Full-Time Research Assistant and Ph.D student.
 
-- 06/2024 A paper accepted at ACL 2024 workshop on teaching NLP describing a course shared task that we organized at the Foundations of Language Technology (FoLT) course in 2023/2024 at the Technical University of Darmstadt. The shared task focuses on evaluating the output of LLMs in generating harmful answers to health-related clinical questions.
+- 06/2024: A paper accepted at ACL 2024 workshop on teaching NLP describing a course shared task that we organized at the Foundations of Language Technology (FoLT) course in 2023/2024 at the Technical University of Darmstadt. The shared task focuses on evaluating the output of LLMs in generating harmful answers to health-related clinical questions.
 
-- 05/2024 I got my Master degree and officially graduated!
+- 05/2024: I got my Master degree and officially graduated!
 
 - 01/2024: Our paper "[DP-NMT: Scalable Differentially-Private Machine Translation](https://aclanthology.org/2024.eacl-demo.11/)" has been accepted at EACL 2024 System Demonstration.
 
-- 10/2022 I got COLING 2022 Outstanding paper award!
+- 10/2022: I got COLING 2022 Outstanding paper award!
 
 - 08/2022: The paper "[Layer or Representation Space: What Makes BERT-based Evaluation Metrics Robust?](https://aclanthology.org/2022.coling-1.300/)" from my Bachelor thesis has been accepted at COLING 2022.
 
-- 06/2022 I got my Bachelor degree and officially graduated!
+- 06/2022: I got my Bachelor degree and officially graduated!
